@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/anupamshekhar/Documents/dev/Courses/Web3/jpegdegens/contracts/Counter.sol": {
-      "lastModificationDate": 1670670022781,
-      "contentHash": "815b9ee18899d79a69c7a8db4b3a6b2d",
+      "lastModificationDate": 1671482535115,
+      "contentHash": "631f31f0c13cc1937ba1307d73a59084",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.17",
